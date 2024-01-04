@@ -30,6 +30,7 @@ public class Ejemplo041 {
                         tho[i][j]);
             }
         }
+        
         for (int i = 0; i < tho.length; i++) {
             for (int j = 0; j < one[i].length; j++) {
                 System.out.printf(" %s %d", cadenaFinal,
@@ -46,6 +47,7 @@ public class Ejemplo041 {
         int multiplicacion;
         multiplicacion = a * b;
         return multiplicacion;
+        
     }
 
 }
